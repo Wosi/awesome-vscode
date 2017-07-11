@@ -99,7 +99,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
-- [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) (only for Windows)
+- [Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal), or [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal)
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
@@ -147,6 +147,9 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### Markdown
 
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
+
+### ObjectPascal
+ - [OmniPascal](https://marketplace.visualstudio.com/items?itemName=Wosi.omnipascal) - Rich language support for ObjectPascal.
 
 ### PHP
 
